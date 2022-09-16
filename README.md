@@ -5,7 +5,7 @@
 
 
 ### :sassy_man:  About me
-- :trophy: 2nd & 3rd place in Asheshi Code Fair 2016 & 2017
+- :trophy: 2nd & 3rd place in Asheshi Code Fair 2017 & 2016 respectively
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Always `learning new things`
 
